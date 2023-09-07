@@ -2,7 +2,8 @@
 import { useState, useContext } from 'react';
 import { PostContext } from '@/context/PostContext';
 import axios from 'axios';
-
+import { toast } from 'react-hot-toast';
+import { useRouter } from 'next/navigation';
 
 export default function Home() {
   const [formData, setFormData] = useState({
@@ -52,7 +53,7 @@ export default function Home() {
     }));
   };
 
-
+  const router = useRouter();
   
   
   const handleSubmit = async (e:any) => {
@@ -69,6 +70,8 @@ export default function Home() {
   
       if (response.status === 200) {
         console.log('Question submitted successfully');
+        router.push("/dashboard")
+        toast.success("Question submitted successfully")
         // Clear the form or show a success message
       } else {
         console.error('Question submission failed');

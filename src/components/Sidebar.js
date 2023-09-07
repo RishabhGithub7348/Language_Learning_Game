@@ -24,7 +24,7 @@ const Sidebar = () => {
             await axios.get('/api/users/logout')
             toast.success('Logout successful')
             setIsAuth(false);
-            router.push('/')
+            router.push('/login')
             router.refresh();
         } catch (error) {
             console.log(error.message);

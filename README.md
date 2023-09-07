@@ -1,4 +1,4 @@
-# Linga
+# Lingua
 
 
 ![image](https://github.com/RishabhGithub7348/Language_Learning_Game/assets/75687649/0b61e997-7545-4ff8-b41e-f327b8cda70e)

@@ -64,7 +64,7 @@ export default function Home() {
       };
       console.log("dataToSend", dataToSend);
       
-      const response = await axios.post('/api/question', dataToSend);
+      const response = await axios.post('/api/users/question', dataToSend);
       console.log("response", response.data);
   
       if (response.status === 200) {

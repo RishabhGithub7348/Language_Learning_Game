@@ -38,7 +38,7 @@ const Sidebar = () => {
             <div className="flex flex-col  gap-9">
              <div className="flex justify-center items-center">
              <div className="flex justify-center   items-center p-3 w-[183px] h-[47px]">
-                <p className="text-[#49c035e5] text-[34px] font-[700] leading-[normal]">Lingui</p>
+                <p className="text-[#49c035e5] text-[34px] font-[700] leading-[normal]">Lingua</p>
               </div>
              </div>
 

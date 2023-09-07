@@ -59,7 +59,8 @@ const languageMapping: LanguageMapping = {
         const response = await axios.put(`/api/users/reset/${language}/${level}`, {
           score :0,
         });
-        toast.success("Question Added successfully");
+        toast.success("Successfully Reset");
+      
         router.push("/dashboard");
         console.log("response", response.data);
 
@@ -78,7 +79,6 @@ const languageMapping: LanguageMapping = {
         console.log('Fetched leaderboard data:', response.data);
         setScore(response.data.data[0]);
        
-        toast.success("Successfully Reset");
       
       } catch (error) {
         console.error('Error fetching leaderboard data:', error);

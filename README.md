@@ -88,5 +88,9 @@ Follow these steps to set up the Lingua project on your local machine:
 ## Demo Video
 
 
+## Demo Video
+
+[![Watch the video](https://res.cloudinary.com/ds2fe7xai/image/upload/v1694052029/upload_a38tfe.png
+)](https://www.youtube.com/watch?v=G87bmzfGZEU)
 
 

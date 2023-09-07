@@ -1,0 +1,157 @@
+{
+  "french": {
+    "easy": [
+      {
+        "question": "How do you say 'hello' in French?",
+        "options": [
+          {
+            "text": "Bonjour",
+            "correct": true
+          },
+          {
+            "text": "Au revoir",
+            "correct": false
+          },
+          {
+            "text": "Oui",
+            "correct": false
+          },
+          {
+            "text": "Merci",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "jjj",
+        "options": [
+          {
+            "text": "bb",
+            "correct": false
+          },
+          {
+            "text": "  bbjk",
+            "correct": true
+          },
+          {
+            "text": "jj",
+            "correct": false
+          },
+          {
+            "text": "nn",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "question": "How do you conjugate the verb 'parler' (to speak) in the present tense for 'I speak'?",
+        "options": [
+          {
+            "text": "Je parle",
+            "correct": true
+          },
+          {
+            "text": "Tu parles",
+            "correct": false
+          },
+          {
+            "text": "Il parle",
+            "correct": false
+          },
+          {
+            "text": "Nous parlons",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Explain the difference between the passé composé and imparfait verb tenses in French.",
+        "options": [
+          {
+            "text": "The passé composé is used for ongoing actions, while imparfait is used for completed actions.",
+            "correct": false
+          },
+          {
+            "text": "The passé composé is used for habitual actions, while imparfait is used for one-time actions.",
+            "correct": false
+          },
+          {
+            "text": "The passé composé is used for completed actions, while imparfait is used for ongoing or habitual actions.",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  },
+  "spanish": {
+    "easy": [
+      {
+        "question": "How do you say 'hello' in Spanish?",
+        "options": [
+          {
+            "text": "Bonjour",
+            "correct": true
+          },
+          {
+            "text": "Au revoir",
+            "correct": false
+          },
+          {
+            "text": "Oui",
+            "correct": false
+          },
+          {
+            "text": "Merci",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "question": "How do you conjugate the verb 'parler' (to speak) in the present tense for 'I speak'?",
+        "options": [
+          {
+            "text": "Je parle",
+            "correct": true
+          },
+          {
+            "text": "Tu parles",
+            "correct": false
+          },
+          {
+            "text": "Il parle",
+            "correct": false
+          },
+          {
+            "text": "Nous parlons",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Explain the difference between the passé composé and imparfait verb tenses in Spanish.",
+        "options": [
+          {
+            "text": "The passé composé is used for ongoing actions, while imparfait is used for completed actions.",
+            "correct": false
+          },
+          {
+            "text": "The passé composé is used for habitual actions, while imparfait is used for one-time actions.",
+            "correct": false
+          },
+          {
+            "text": "The passé composé is used for completed actions, while imparfait is used for ongoing or habitual actions.",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3436 @@
+{
+  "french": {
+    "easy": [
+      {
+        "question": "How do you say 'hello' in French?",
+        "options": [
+          {
+            "text": "Bonjour",
+            "correct": true
+          },
+          {
+            "text": "Au revoir",
+            "correct": false
+          },
+          {
+            "text": "Oui",
+            "correct": false
+          },
+          {
+            "text": "Merci",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+
+      },
+      {
+        "question": "What is the French word for 'cat'?",
+        "options": [
+          {
+            "text": "Chien",
+            "correct": false
+          },
+          {
+            "text": "Poisson",
+            "correct": false
+          },
+          {
+            "text": "Chat",
+            "correct": true
+          },
+          {
+            "text": "Maison",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Translate 'goodbye' into French.",
+        "options": [
+          {
+            "text": "S'il vous plaît",
+            "correct": false
+          },
+          {
+            "text": "Bonsoir",
+            "correct": false
+          },
+          {
+            "text": "Au revoir",
+            "correct": true
+          },
+          {
+            "text": "Pomme",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "How do you say 'yes' in French?",
+        "options": [
+          {
+            "text": "Non",
+            "correct": false
+          },
+          {
+            "text": "Oui",
+            "correct": true
+          },
+          {
+            "text": "Peut-être",
+            "correct": false
+          },
+          {
+            "text": "Excusez-moi",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Translate 'apple' into French.",
+        "options": [
+          {
+            "text": "Poire",
+            "correct": false
+          },
+          {
+            "text": "Pomme",
+            "correct": true
+          },
+          {
+            "text": "Banane",
+            "correct": false
+          },
+          {
+            "text": "Eau",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the French word for 'friend'?",
+        "options": [
+          {
+            "text": "Ami",
+            "correct": true
+          },
+          {
+            "text": "Famille",
+            "correct": false
+          },
+          {
+            "text": "Travail",
+            "correct": false
+          },
+          {
+            "text": "Manger",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "How do you say 'thank you' in French?",
+        "options": [
+          {
+            "text": "S'il vous plaît",
+            "correct": false
+          },
+          {
+            "text": "Désolé",
+            "correct": false
+          },
+          {
+            "text": "Merci",
+            "correct": true
+          },
+          {
+            "text": "Bonjour",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Translate 'good' into French.",
+        "options": [
+          {
+            "text": "Bien",
+            "correct": false
+          },
+          {
+            "text": "Mal",
+            "correct": false
+          },
+          {
+            "text": "Bon",
+            "correct": true
+          },
+          {
+            "text": "Petit",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "How do you say 'I love you' in French?",
+        "options": [
+          {
+            "text": "Je t'aime",
+            "correct": true
+          },
+          {
+            "text": "Je t'aime bien",
+            "correct": false
+          },
+          {
+            "text": "Je te vois",
+            "correct": false
+          },
+          {
+            "text": "Je te comprends",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the French word for 'house'?",
+        "options": [
+          {
+            "text": "Voiture",
+            "correct": false
+          },
+          {
+            "text": "Table",
+            "correct": false
+          },
+          {
+            "text": "Maison",
+            "correct": true
+          },
+          {
+            "text": "Fleur",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      }
+    ],
+    "medium": [
+      {
+        "question": "How do you conjugate the verb 'parler' (to speak) in the present tense for 'I speak'?",
+        "options": [
+          {
+            "text": "Je parle",
+            "correct": true
+          },
+          {
+            "text": "Tu parles",
+            "correct": false
+          },
+          {
+            "text": "Il parle",
+            "correct": false
+          },
+          {
+            "text": "Nous parlons",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Translate the sentence 'I eat bread' into French.",
+        "options": [
+          {
+            "text": "Je mange pain",
+            "correct": true
+          },
+          {
+            "text": "Je bois de l'eau",
+            "correct": false
+          },
+          {
+            "text": "Je vois le livre",
+            "correct": false
+          },
+          {
+            "text": "Je parle français",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the French word for 'school'?",
+        "options": [
+          {
+            "text": "Livre",
+            "correct": false
+          },
+          {
+            "text": "École",
+            "correct": true
+          },
+          {
+            "text": "Café",
+            "correct": false
+          },
+          {
+            "text": "Frère",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "How do you say 'to read' in French?",
+        "options": [
+          {
+            "text": "Écouter",
+            "correct": false
+          },
+          {
+            "text": "Lire",
+            "correct": true
+          },
+          {
+            "text": "Jouer",
+            "correct": false
+          },
+          {
+            "text": "Rire",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Translate 'yellow' into French.",
+        "options": [
+          {
+            "text": "Jaune",
+            "correct": true
+          },
+          {
+            "text": "Bleu",
+            "correct": false
+          },
+          {
+            "text": "Rouge",
+            "correct": false
+          },
+          {
+            "text": "Vert",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Provide the correct form of the adjective 'beautiful' in French for a feminine noun in the accusative case.",
+        "options": [
+          {
+            "text": "Beau",
+            "correct": false
+          },
+          {
+            "text": "Belle",
+            "correct": false
+          },
+          {
+            "text": "Beaux",
+            "correct": false
+          },
+          {
+            "text": "Belles",
+            "correct": true
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the French word for 'to write'?",
+        "options": [
+          {
+            "text": "Parler",
+            "correct": false
+          },
+          {
+            "text": "Lire",
+            "correct": false
+          },
+          {
+            "text": "Écrire",
+            "correct": true
+          },
+          {
+            "text": "Boire",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Translate 'to watch TV' into French.",
+        "options": [
+          {
+            "text": "Lire",
+            "correct": false
+          },
+          {
+            "text": "Regarder la télévision",
+            "correct": true
+          },
+          {
+            "text": "Écouter de la musique",
+            "correct": false
+          },
+          {
+            "text": "Parler",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Explain the concept of 'verb conjugation' in French grammar.",
+        "options": [
+          {
+            "text": "Verb conjugation is the process of combining verbs with nouns.",
+            "correct": false
+          },
+          {
+            "text": "Verb conjugation involves changing the form of a verb to match its subject in tense, mood, aspect, and person.",
+            "correct": true
+          },
+          {
+            "text": "Verb conjugation is not relevant in French.",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the French word for 'to learn'?",
+        "options": [
+          {
+            "text": "Travailler",
+            "correct": false
+          },
+          {
+            "text": "Jouer",
+            "correct": false
+          },
+          {
+            "text": "Apprendre",
+            "correct": true
+          }
+        ],
+        "difficulty": "easy"
+      }
+    ],
+    "hard": [
+      {
+        "question": "Explain the difference between the passé composé and imparfait verb tenses in French.",
+        "options": [
+          {
+            "text": "The passé composé is used for ongoing actions, while imparfait is used for completed actions.",
+            "correct": false
+          },
+          {
+            "text": "The passé composé is used for habitual actions, while imparfait is used for one-time actions.",
+            "correct": false
+          },
+          {
+            "text": "The passé composé is used for completed actions, while imparfait is used for ongoing or habitual actions.",
+            "correct": true
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the French word for 'to understand'?",
+        "options": [
+          {
+            "text": "Voir",
+            "correct": false
+          },
+          {
+            "text": "Comprendre",
+            "correct": true
+          },
+          {
+            "text": "Aller",
+            "correct": false
+          },
+          {
+            "text": "Manger",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Translate the sentence 'We have been learning French for three months' into French.",
+        "options": [
+          {
+            "text": "Nous apprenons le français depuis trois mois",
+            "correct": false
+          },
+          {
+            "text": "Nous avons appris le français depuis trois mois",
+            "correct": false
+          },
+          {
+            "text": "Nous avons depuis trois mois Deutsch gelernt",
+            "correct": true
+          },
+          {
+            "text": "Nous français apprenons depuis trois mois",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "In French, what is the verb mood used to express a hypothetical situation or condition?",
+        "options": [
+          {
+            "text": "Indicatif",
+            "correct": false
+          },
+          {
+            "text": "Impératif",
+            "correct": false
+          },
+          {
+            "text": "Subjonctif",
+            "correct": true
+          },
+          {
+            "text": "Conditionnel",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the French word for 'book'?",
+        "options": [
+          {
+            "text": "Table",
+            "correct": false
+          },
+          {
+            "text": "Livre",
+            "correct": true
+          },
+          {
+            "text": "Haus",
+            "correct": false
+          },
+          {
+            "text": "École",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Translate 'to sing' into French.",
+        "options": [
+          {
+            "text": "Parler",
+            "correct": false
+          },
+          {
+            "text": "Lire",
+            "correct": false
+          },
+          {
+            "text": "Singen",
+            "correct": true
+          },
+          {
+            "text": "Tanzen",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Provide the correct form of the adjective 'happy' in French for a plural noun in the accusative case.",
+        "options": [
+          {
+            "text": "Heureux",
+            "correct": false
+          },
+          {
+            "text": "Heureuse",
+            "correct": false
+          },
+          {
+            "text": "Heureux",
+            "correct": true
+          },
+          {
+            "text": "Heureuses",
+            "correct": false
+          }
+        ],
+        "difficulty":"hard"
+      },
+      {
+        "question": "What is the French word for 'to cook'?",
+        "options": [
+          {
+            "text": "Manger",
+            "correct": false
+          },
+          {
+            "text": "Jouer",
+            "correct": false
+          },
+          {
+            "text": "Cuisiner",
+            "correct": true
+          },
+          {
+            "text": "Trinken",
+            "correct": false
+          }
+        ],
+        "difficulty":"medium"
+      },
+      {
+        "question": "Translate the sentence 'She speaks French fluently' into French.",
+        "options": [
+          {
+            "text": "Elle parle français couramment",
+            "correct": true
+          },
+          {
+            "text": "Elle ne comprend pas le français",
+            "correct": false
+          },
+          {
+            "text": "Elle parle anglais",
+            "correct": false
+          },
+          {
+            "text": "Elle français parle bien",
+            "correct": false
+          }
+        ],
+        "difficulty":"hard"
+      },
+      {
+        "question": "Explain the concept of 'subjonctif' in French grammar.",
+        "options": [
+          {
+            "text": "Subjonctif is a verb tense used for past actions.",
+            "correct": false
+          },
+          {
+            "text": "Subjonctif is a mood used to express certainty and facts.",
+            "correct": false
+          },
+          {
+            "text": "Subjonctif is a mood used to express doubt, possibility, or necessity, often in subordinate clauses.",
+            "correct": true
+          }
+        ],
+        "difficulty": "medium"
+      }
+    ]
+  },
+  "russia": {
+    "easy": [
+      {
+        "question": "What is the Russian word for 'hello'?",
+        "options": [
+          {
+            "text": "Привет",
+            "correct": true
+          },
+          {
+            "text": "Да",
+            "correct": false
+          },
+          {
+            "text": "Кофе",
+            "correct": false
+          },
+          {
+            "text": "Мама",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy",
+        "score": 2
+      },
+      {
+        "question": "How do you say 'I am a student' in Russian?",
+        "options": [
+          {
+            "text": "Я работаю",
+            "correct": false
+          },
+          {
+            "text": "Я говорю по-русски",
+            "correct": false
+          },
+          {
+            "text": "Я студент",
+            "correct": true
+          },
+          {
+            "text": "Я люблю музыку",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy",
+        "score": 2
+      },
+      {
+        "question": "What is the capital city of Russia?",
+        "options": [
+          {
+            "text": "St. Petersburg",
+            "correct": false
+          },
+          {
+            "text": "Moscow",
+            "correct": true
+          },
+          {
+            "text": "Kiev",
+            "correct": false
+          },
+          {
+            "text": "Vladivostok",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "How do you say 'yes' in Russian?",
+        "options": [
+          {
+            "text": "Нет",
+            "correct": false
+          },
+          {
+            "text": "Да",
+            "correct": true
+          },
+          {
+            "text": "Нет, спасибо",
+            "correct": false
+          },
+          {
+            "text": "Как дела?",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy",
+        "score": 2
+      },
+      {
+        "question": "Translate 'apple' into Russian.",
+        "options": [
+          {
+            "text": "Груша",
+            "correct": false
+          },
+          {
+            "text": "Яблоко",
+            "correct": true
+          },
+          {
+            "text": "Банан",
+            "correct": false
+          },
+          {
+            "text": "Апельсин",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "What is the Russian word for 'goodbye'?",
+        "options": [
+          {
+            "text": "Здравствуйте",
+            "correct": false
+          },
+          {
+            "text": "Спасибо",
+            "correct": false
+          },
+          {
+            "text": "Да",
+            "correct": false
+          },
+          {
+            "text": "Пока",
+            "correct": true
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "How do you say 'thank you' in Russian?",
+        "options": [
+          {
+            "text": "Добро пожаловать",
+            "correct": false
+          },
+          {
+            "text": "Пожалуйста",
+            "correct": false
+          },
+          {
+            "text": "Спасибо",
+            "correct": true
+          },
+          {
+            "text": "Извините",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "What is the Russian word for 'house'?",
+        "options": [
+          {
+            "text": "Машина",
+            "correct": false
+          },
+          {
+            "text": "Дом",
+            "correct": true
+          },
+          {
+            "text": "Солнце",
+            "correct": false
+          },
+          {
+            "text": "Рыба",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy",
+        "score": 2
+      },
+      {
+        "question": "How do you say 'no' in Russian?",
+        "options": [
+          {
+            "text": "Да",
+            "correct": false
+          },
+          {
+            "text": "Нет",
+            "correct": true
+          },
+          {
+            "text": "Стол",
+            "correct": false
+          },
+          {
+            "text": "Папа",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy",
+        "score": 2
+      },
+      {
+        "question": "Translate 'cat' into Russian.",
+        "options": [
+          {
+            "text": "Собака",
+            "correct": false
+          },
+          {
+            "text": "Мышь",
+            "correct": false
+          },
+          {
+            "text": "Кот",
+            "correct": true
+          },
+          {
+            "text": "Птица",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      }
+    ],
+    "medium": [
+      {
+        "question": "What are the main verb tenses in Russian?",
+        "options": [
+          {
+            "text": "Past, present, future",
+            "correct": true
+          },
+          {
+            "text": "Present, imperfect, preterite",
+            "correct": false
+          },
+          {
+            "text": "Simple, continuous, perfect",
+            "correct": false
+          },
+          {
+            "text": "Conditional, subjunctive, imperative",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "Provide the correct form of the verb 'to eat' in Russian for 'He eats.'",
+        "options": [
+          {
+            "text": "Я ем",
+            "correct": false
+          },
+          {
+            "text": "Ты ешь",
+            "correct": false
+          },
+          {
+            "text": "Он ест",
+            "correct": true
+          },
+          {
+            "text": "Мы едим",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "Translate the sentence 'I love learning languages' into Russian.",
+        "options": [
+          {
+            "text": "Я люблю учиться",
+            "correct": true
+          },
+          {
+            "text": "Я люблю спать",
+            "correct": false
+          },
+          {
+            "text": "Я люблю готовить",
+            "correct": false
+          },
+          {
+            "text": "Я люблю изучать языки",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "What is the Russian word for 'friend'?",
+        "options": [
+          {
+            "text": "Друг",
+            "correct": true
+          },
+          {
+            "text": "Родитель",
+            "correct": false
+          },
+          {
+            "text": "Сосед",
+            "correct": false
+          },
+          {
+            "text": "Учитель",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "How do you say 'I don't understand' in Russian?",
+        "options": [
+          {
+            "text": "Я понимаю",
+            "correct": false
+          },
+          {
+            "text": "Я не говорю по-русски",
+            "correct": false
+          },
+          {
+            "text": "Я не понимаю",
+            "correct": true
+          },
+          {
+            "text": "Я хочу есть",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "In Russian, what is the case used for direct objects?",
+        "options": [
+          {
+            "text": "Genitive case",
+            "correct": false
+          },
+          {
+            "text": "Dative case",
+            "correct": false
+          },
+          {
+            "text": "Accusative case",
+            "correct": true
+          },
+          {
+            "text": "Instrumental case",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "Translate the sentence 'She is a talented musician' into Russian.",
+        "options": [
+          {
+            "text": "Она красивая актриса",
+            "correct": false
+          },
+          {
+            "text": "Она умная учительница",
+            "correct": false
+          },
+          {
+            "text": "Она талантливая музыкантка",
+            "correct": true
+          },
+          {
+            "text": "Она хорошая студентка",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "What is the Russian word for 'to travel'?",
+        "options": [
+          {
+            "text": "Говорить",
+            "correct": false
+          },
+          {
+            "text": "Есть",
+            "correct": false
+          },
+          {
+            "text": "Читать",
+            "correct": false
+          },
+          {
+            "text": "Путешествовать",
+            "correct": true
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "Explain the concept of 'Russian cases' in grammar.",
+        "options": [
+          {
+            "text": "Cases are used for tense in Russian verbs.",
+            "correct": false
+          },
+          {
+            "text": "Cases are used for gender in Russian nouns.",
+            "correct": false
+          },
+          {
+            "text": "Cases are used to indicate the grammatical function of nouns and pronouns in a sentence.",
+            "correct": true
+          },
+          {
+            "text": "Cases are used for plural forms of Russian adjectives.",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "What is the Russian word for 'water'?",
+        "options": [
+          {
+            "text": "Воздух",
+            "correct": false
+          },
+          {
+            "text": "Свет",
+            "correct": false
+          },
+          {
+            "text": "Огонь",
+            "correct": false
+          },
+          {
+            "text": "Вода",
+            "correct": true
+          }
+        ],
+        "difficulty": "easy",
+        "score": 3
+      }
+    ],
+    "hard": [
+      {
+        "question": "In Russian, what is the difference between 'знаю' and 'умею'?",
+        "options": [
+          {
+            "text": "They are synonyms with no difference.",
+            "correct": false
+          },
+          {
+            "text": "'Знаю' means 'to know,' while 'умею' means 'to be able to do' or 'to know how to do.'",
+            "correct": true
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "Provide the correct form of the adjective 'big' in Russian for a feminine noun in the genitive case.",
+        "options": [
+          {
+            "text": "большой",
+            "correct": false
+          },
+          {
+            "text": "большое",
+            "correct": false
+          },
+          {
+            "text": "большая",
+            "correct": true
+          },
+          {
+            "text": "больший",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "What is the Russian word for 'to study'?",
+        "options": [
+          {
+            "text": "Работать",
+            "correct": false
+          },
+          {
+            "text": "Учиться",
+            "correct": true
+          },
+          {
+            "text": "Готовить",
+            "correct": false
+          },
+          {
+            "text": "Петь",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "Translate the sentence 'They will arrive tomorrow' into Russian.",
+        "options": [
+          {
+            "text": "Они приехали вчера",
+            "correct": false
+          },
+          {
+            "text": "Они приедут завтра",
+            "correct": true
+          },
+          {
+            "text": "Они приедут сегодня",
+            "correct": false
+          },
+          {
+            "text": "Они приехали сегодня",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "Explain the concept of aspect in Russian verbs.",
+        "options": [
+          {
+            "text": "Aspect determines whether a verb is regular or irregular.",
+            "correct": false
+          },
+          {
+            "text": "Aspect is the tense of a verb.",
+            "correct": false
+          },
+          {
+            "text": "Aspect indicates the completion or duration of an action.",
+            "correct": true
+          },
+          {
+            "text": "Aspect is not relevant in Russian grammar.",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium",
+        "score": 3
+      },
+      {
+        "question": "What is the Russian word for 'to travel'?",
+        "options": [
+          {
+            "text": "Говорить",
+            "correct": false
+          },
+          {
+            "text": "Есть",
+            "correct": false
+          },
+          {
+            "text": "Читать",
+            "correct": false
+          },
+          {
+            "text": "Путешествовать",
+            "correct": true
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "Translate the sentence 'I have been learning Russian for two years' into Russian.",
+        "options": [
+          {
+            "text": "Я учу русский язык два дня",
+            "correct": false
+          },
+          {
+            "text": "Я учу русский язык две недели",
+            "correct": false
+          },
+          {
+            "text": "Я учу русский язык два месяца",
+            "correct": false
+          },
+          {
+            "text": "Я учу русский язык два года",
+            "correct": true
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "What is the Russian word for 'to read'?",
+        "options": [
+          {
+            "text": "Говорить",
+            "correct": false
+          },
+          {
+            "text": "Писать",
+            "correct": false
+          },
+          {
+            "text": "Читать",
+            "correct": true
+          },
+          {
+            "text": "Петь",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy",
+        "score": 2
+      },
+      {
+        "question": "Explain the concept of 'vowel reduction' in Russian pronunciation.",
+        "options": [
+          {
+            "text": "Vowel reduction refers to the complete omission of vowels in Russian words.",
+            "correct": false
+          },
+          {
+            "text": "Vowel reduction is the phenomenon where unstressed vowels in Russian words are pronounced as a neutral sound similar to 'uh.'",
+            "correct": true
+          },
+          {
+            "text": "Vowel reduction only occurs in formal speech.",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard",
+        "score": 5
+      },
+      {
+        "question": "What is the Russian word for 'to work'?",
+        "options": [
+          {
+            "text": "Говорить",
+            "correct": false
+          },
+          {
+            "text": "Работать",
+            "correct": true
+          },
+          {
+            "text": "Читать",
+            "correct": false
+          },
+          {
+            "text": "Петь",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy",
+        "score": 2
+      }
+    ]
+  },
+  "spanish": {
+    "easy": [
+      {
+        "question": "How do you say 'hello' in Spanish?",
+        "options": [
+          {"text": "Gracias", "correct": false},
+          {"text": "Hola", "correct": true},
+          {"text": "Adiós", "correct": false},
+          {"text": "Por favor", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Spanish word for 'cat'?",
+        "options": [
+          {"text": "Perro", "correct": false},
+          {"text": "Gato", "correct": true},
+          {"text": "Pájaro", "correct": false},
+          {"text": "Casa", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'goodbye' into Spanish.",
+        "options": [
+          {"text": "Hola", "correct": false},
+          {"text": "Buenas tardes", "correct": false},
+          {"text": "Adiós", "correct": true},
+          {"text": "Por favor", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'yes' in Spanish?",
+        "options": [
+          {"text": "No", "correct": false},
+          {"text": "Sí", "correct": true},
+          {"text": "Tal vez", "correct": false},
+          {"text": "Gracias", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'apple' into Spanish.",
+        "options": [
+          {"text": "Banana", "correct": false},
+          {"text": "Manzana", "correct": true},
+          {"text": "Naranja", "correct": false},
+          {"text": "Uva", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Spanish word for 'friend'?",
+        "options": [
+          {"text": "Familia", "correct": false},
+          {"text": "Trabajo", "correct": false},
+          {"text": "Amigo", "correct": true},
+          {"text": "Comida", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'thank you' in Spanish?",
+        "options": [
+          {"text": "Perdón", "correct": false},
+          {"text": "Por favor", "correct": false},
+          {"text": "Gracias", "correct": true},
+          {"text": "Hola", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'good' into Spanish.",
+        "options": [
+          {"text": "Bueno", "correct": true},
+          {"text": "Malo", "correct": false},
+          {"text": "Grande", "correct": false},
+          {"text": "Pequeño", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'I love you' in Spanish?",
+        "options": [
+          {"text": "Te odio", "correct": false},
+          {"text": "Te extraño", "correct": false},
+          {"text": "Te quiero", "correct": false},
+          {"text": "Te amo", "correct": true}
+        ]
+      },
+      {
+        "question": "What is the Spanish word for 'house'?",
+        "options": [
+          {"text": "Coche", "correct": false},
+          {"text": "Mesa", "correct": false},
+          {"text": "Casa", "correct": true},
+          {"text": "Flor", "correct": false}
+        ]
+      }
+    ],
+    "medium" : [
+        {
+          "question": "How do you conjugate the verb 'hablar' (to speak) in the present tense for 'I speak'?",
+          "options": [
+            {"text": "Yo hablo", "correct": true},
+            {"text": "Tú hablas", "correct": false},
+            {"text": "Él/Ella hablo", "correct": false},
+            {"text": "Nosotros hablamos", "correct": false}
+          ]
+        },
+        {
+          "question": "Translate the sentence 'I eat pizza' into Spanish.",
+          "options": [
+            {"text": "Yo como pizza", "correct": true},
+            {"text": "Yo bebo agua", "correct": false},
+            {"text": "Yo veo la televisión", "correct": false},
+            {"text": "Yo hablo español", "correct": false}
+          ]
+        },
+        {
+          "question": "What is the Spanish word for 'school'?",
+          "options": [
+            {"text": "Libro", "correct": false},
+            {"text": "Escuela", "correct": true},
+            {"text": "Café", "correct": false},
+            {"text": "Hermano", "correct": false}
+          ]
+        },
+        {
+          "question": "How do you say 'to read' in Spanish?",
+          "options": [
+            {"text": "Escuchar", "correct": false},
+            {"text": "Leer", "correct": true},
+            {"text": "Jugar", "correct": false},
+            {"text": "Reír", "correct": false}
+          ]
+        },
+        {
+          "question": "Translate 'yellow' into Spanish.",
+          "options": [
+            {"text": "Rojo", "correct": false},
+            {"text": "Azul", "correct": false},
+            {"text": "Amarillo", "correct": true},
+            {"text": "Verde", "correct": false}
+          ]
+        },
+        {
+          "question": "Provide the correct form of the adjective 'beautiful' in Spanish for a masculine noun in the accusative case.",
+          "options": [
+            {"text": "Hermoso", "correct": false},
+            {"text": "Hermosa", "correct": false},
+            {"text": "Hermosos", "correct": false},
+            {"text": "Hermoso", "correct": true}
+          ]
+        },
+        {
+          "question": "What is the Spanish word for 'to write'?",
+          "options": [
+            {"text": "Hablar", "correct": false},
+            {"text": "Leer", "correct": false},
+            {"text": "Escribir", "correct": true},
+            {"text": "Beber", "correct": false}
+          ]
+        },
+        {
+          "question": "Translate 'to watch TV' into Spanish.",
+          "options": [
+            {"text": "Escuchar música", "correct": false},
+            {"text": "Leer un libro", "correct": false},
+            {"text": "Ver la televisión", "correct": true},
+            {"text": "Hablar por teléfono", "correct": false}
+          ]
+      },
+      {
+        "question": "Explain the concept of 'subjunctive' in Spanish grammar.",
+        "options": [
+          {"text": "Subjunctive is a verb tense used for past actions.", "correct": false},
+          {"text": "Subjunctive is a mood used to express certainty and facts.", "correct": false},
+          {"text": "Subjunctive is a mood used to express doubt, possibility, or necessity, often in subordinate clauses.", "correct": true},
+          {"text": "Subjunctive is a mood used to express future actions.", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Spanish word for 'to learn'?",
+        "options": [
+          {"text": "Trabajar", "correct": false},
+          {"text": "Jugar", "correct": false},
+          {"text": "Aprender", "correct": true},
+          {"text": "Ver", "correct": false}
+        ]
+      }
+    ],
+    
+  "hard": [
+    {
+      "question": "Explain the difference between the preterite and imperfect verb tenses in Spanish.",
+      "options": [
+        {"text": "The preterite is used for ongoing actions, while the imperfect is used for completed actions.", "correct": false},
+        {"text": "The preterite is used for habitual actions, while the imperfect is used for one-time actions.", "correct": false},
+        {"text": "The preterite is used for completed actions, while the imperfect is used for ongoing or habitual actions.", "correct": true},
+        {"text": "The preterite and imperfect tenses are used interchangeably.", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the Spanish word for 'to understand'?",
+      "options": [
+        {"text": "Ver", "correct": false},
+        {"text": "Comer", "correct": false},
+        {"text": "Entender", "correct": true},
+        {"text": "Correr", "correct": false}
+      ]
+    },
+    {
+      "question": "Translate the sentence 'We have been learning Spanish for three months' into Spanish.",
+      "options": [
+        {"text": "Nosotros aprendimos español hace tres meses", "correct": false},
+        {"text": "Nosotros estamos aprendiendo español desde hace tres meses", "correct": false},
+        {"text": "Nosotros aprendemos español desde hace tres meses", "correct": false},
+        {"text": "Nosotros hemos estado aprendiendo español durante tres meses", "correct": true}
+      ]
+    },
+    {
+      "question": "In Spanish, what is the verb mood used to express a hypothetical situation or condition?",
+      "options": [
+        {"text": "Indicativo", "correct": false},
+        {"text": "Imperativo", "correct": false},
+        {"text": "Subjuntivo", "correct": true},
+        {"text": "Futuro", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the Spanish word for 'book'?",
+      "options": [
+        {"text": "Carro", "correct": false},
+        {"text": "Silla", "correct": false},
+        {"text": "Libro", "correct": true},
+        {"text": "Flor", "correct": false}
+      ]
+    },
+    {
+      "question": "Translate 'to sing' into Spanish.",
+      "options": [
+        {"text": "Hablar", "correct": false},
+        {"text": "Leer", "correct": false},
+        {"text": "Cantar", "correct": true},
+        {"text": "Bailar", "correct": false}
+      ]
+    },
+    {
+      "question": "Provide the correct form of the adjective 'happy' in Spanish for a feminine noun in the accusative case.",
+      "options": [
+        {"text": "Feliz", "correct": false},
+        {"text": "Felices", "correct": false},
+        {"text": "Feliz", "correct": false},
+        {"text": "Feliz", "correct": true}
+      ]
+    },
+    {
+      "question": "What is the Spanish word for 'to cook'?",
+      "options": [
+        {"text": "Comer", "correct": false},
+        {"text": "Jugar", "correct": false},
+        {"text": "Cocinar", "correct": true},
+        {"text": "Beber", "correct": false}
+      ]
+    },
+    {
+      "question": "Translate the sentence 'She speaks Spanish fluently' into Spanish.",
+      "options": [
+        {"text": "Ella habla inglés", "correct": false},
+        {"text": "Ella no entiende español", "correct": false},
+        {"text": "Ella habla español con fluidez", "correct": true},
+        {"text": "Ella estudia francés", "correct": false}
+      ]
+    }
+  ]
+  },
+  "japanese": {
+    "easy" : [
+      {
+        "question": "How do you say 'hello' in Japanese?",
+        "options": [
+          {"text": "ありがとう (Arigatou)", "correct": false},
+          {"text": "こんにちは (Konnichiwa)", "correct": true},
+          {"text": "さようなら (Sayonara)", "correct": false},
+          {"text": "はい (Hai)", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'cat'?",
+        "options": [
+          {"text": "犬 (Inu)", "correct": false},
+          {"text": "魚 (Sakana)", "correct": false},
+          {"text": "猫 (Neko)", "correct": true},
+          {"text": "家 (Ie)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'goodbye' into Japanese.",
+        "options": [
+          {"text": "ありがとう (Arigatou)", "correct": false},
+          {"text": "こんばんは (Konbanwa)", "correct": false},
+          {"text": "さようなら (Sayonara)", "correct": true},
+          {"text": "りんご (Ringo)", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'yes' in Japanese?",
+        "options": [
+          {"text": "いいえ (Iie)", "correct": false},
+          {"text": "はい (Hai)", "correct": true},
+          {"text": "おはよう (Ohayou)", "correct": false},
+          {"text": "ありがとう (Arigatou)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'apple' into Japanese.",
+        "options": [
+          {"text": "梨 (Nashi)", "correct": false},
+          {"text": "いちご (Ichigo)", "correct": false},
+          {"text": "りんご (Ringo)", "correct": true},
+          {"text": "みかん (Mikan)", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'friend'?",
+        "options": [
+          {"text": "友達 (Tomodachi)", "correct": true},
+          {"text": "家族 (Kazoku)", "correct": false},
+          {"text": "仕事 (Shigoto)", "correct": false},
+          {"text": "食べ物 (Tabemono)", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'thank you' in Japanese?",
+        "options": [
+          {"text": "すみません (Sumimasen)", "correct": false},
+          {"text": "いただきます (Itadakimasu)", "correct": false},
+          {"text": "ありがとう (Arigatou)", "correct": true},
+          {"text": "お疲れ様 (Otsukaresama)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'good' into Japanese.",
+        "options": [
+          {"text": "悪い (Warui)", "correct": false},
+          {"text": "大きい (Ookii)", "correct": false},
+          {"text": "良い (Yoi)", "correct": true},
+          {"text": "小さい (Chiisai)", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'I love you' in Japanese?",
+        "options": [
+          {"text": "会いたい (Aitai)", "correct": false},
+          {"text": "嬉しい (Ureshii)", "correct": false},
+          {"text": "愛してる (Aishiteru)", "correct": true},
+          {"text": "分かる (Wakaru)", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'house'?",
+        "options": [
+          {"text": "車 (Kuruma)", "correct": false},
+          {"text": "机 (Tsukue)", "correct": false},
+          {"text": "家 (Ie)", "correct": true},
+          {"text": "花 (Hana)", "correct": false}
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "question": "How do you conjugate the verb '食べる' (to eat) in the present tense for 'I eat'?",
+        "options": [
+          {"text": "食べります (Taberimasu)", "correct": false},
+          {"text": "食べます (Tabemasu)", "correct": true},
+          {"text": "食べる (Taberu)", "correct": false},
+          {"text": "食べない (Tabenai)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate the sentence 'I read books' into Japanese.",
+        "options": [
+          {"text": "私は本を読む (Watashi wa hon o yomu)", "correct": true},
+          {"text": "私は水を飲む (Watashi wa mizu o nomu)", "correct": false},
+          {"text": "私は家に行く (Watashi wa ie ni iku)", "correct": false},
+          {"text": "私は友達と話す (Watashi wa tomodachi to hanasu)", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'school'?",
+        "options": [
+          {"text": "本 (Hon)", "correct": false},
+          {"text": "学校 (Gakkou)", "correct": true},
+          {"text": "コーヒー (Koohii)", "correct": false},
+          {"text": "兄弟 (Kyoudai)", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'to read' in Japanese?",
+        "options": [
+          {"text": "聞く (Kiku)", "correct": false},
+          {"text": "読む (Yomu)", "correct": true},
+          {"text": "遊ぶ (Asobu)", "correct": false},
+          {"text": "笑う (Warau)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'yellow' into Japanese.",
+        "options": [
+          {"text": "赤い (Akai)", "correct": false},
+          {"text": "青い (Aoi)", "correct": false},
+          {"text": "黄色 (Kiiro)", "correct": true},
+          {"text": "緑 (Midori)", "correct": false}
+        ]
+      },
+      {
+        "question": "Provide the correct form of the adjective 'beautiful' in Japanese for a feminine noun in the accusative case.",
+        "options": [
+          {"text": "美しい (Utsukushii)", "correct": true},
+          {"text": "美しい (Utsukushii)", "correct": false},
+          {"text": "美しい (Utsukushii)", "correct": false},
+          {"text": "美しい (Utsukushii)", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'to write'?",
+        "options": [
+          {"text": "話す (Hanasu)", "correct": false},
+          {"text": "読む (Yomu)", "correct": false},
+          {"text": "書く (Kaku)", "correct": true},
+          {"text": "食べる (Taberu)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'to watch TV' into Japanese.",
+        "options": [
+          {"text": "聞く (Kiku)", "correct": false},
+          {"text": "テレビを見る (Terebi o miru)", "correct": true},
+          {"text": "音楽を聴く (Ongaku o kiku)", "correct": false},
+          {"text": "話す (Hanasu)", "correct": false}
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Explain the difference between 'hiragana' and 'katakana' scripts in the Japanese writing system.",
+        "options": [
+          {"text": "Hiragana is used for foreign words, while katakana is used for native Japanese words.", "correct": false},
+          {"text": "Hiragana is a phonetic script used for native Japanese words, while katakana is used for foreign words and names.", "correct": true},
+          {"text": "Hiragana and katakana are interchangeable in all contexts.", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'to understand'?",
+        "options": [
+          {"text": "伝える (Tsutaeru)", "correct": false},
+          {"text": "理解する (Rikai suru)", "correct": true},
+          {"text": "教える (Oshieru)", "correct": false},
+          {"text": "忘れる (Wasureru)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate the sentence 'We have been learning Japanese for three months' into Japanese.",
+        "options": [
+          {"text": "私たちは三ヶ月日本語を学んでいます (Watashitachi wa sankagetsu nihongo o manandeimasu)", "correct": false},
+          {"text": "私たちは三ヶ月前に日本語を学びました (Watashitachi wa sankagetsu mae ni nihongo o manabimashita)", "correct": false},
+          {"text": "私たちは三ヶ月間日本語を学んでいます (Watashitachi wa sankagetsukan nihongo o manandeimasu)", "correct": true},
+          {"text": "私たちは三ヶ月間日本語を学びます (Watashitachi wa sankagetsukan nihongo o manabimasu)", "correct": false}
+        ]
+      },
+      {
+        "question": "In Japanese, what is the verb form used to express a hypothetical situation or condition?",
+        "options": [
+          {"text": "未来形 (Miraikei)", "correct": false},
+          {"text": "仮定形 (Kateikei)", "correct": true},
+          {"text": "使役形 (Shiekikei)", "correct": false},
+          {"text": "過去形 (Kakokei)", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'book'?",
+        "options": [
+          {"text": "車 (Kuruma)", "correct": false},
+          {"text": "机 (Tsukue)", "correct": false},
+          {"text": "本 (Hon)", "correct": true},
+          {"text": "花 (Hana)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'to sing' into Japanese.",
+        "options": [
+          {"text": "話す (Hanasu)", "correct": false},
+          {"text": "読む (Yomu)", "correct": false},
+          {"text": "歌う (Utau)", "correct": true},
+          {"text": "踊る (Odoru)", "correct": false}
+        ]
+      },
+      {
+        "question": "Provide the correct form of the adjective 'happy' in Japanese for a plural noun in the accusative case.",
+        "options": [
+          {"text": "幸せな (Shiawasena)", "correct": true},
+          {"text": "幸せな (Shiawasena)", "correct": false},
+          {"text": "幸せな (Shiawasena)", "correct": false},
+          {"text": "幸せな (Shiawasena)", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Japanese word for 'to cook'?",
+        "options": [
+          {"text": "食べる (Taberu)", "correct": false},
+          {"text": "遊ぶ (Asobu)", "correct": false},
+          {"text": "料理する (Ryouri suru)", "correct": true},
+          {"text": "飲む (Nomu)", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate the sentence 'She speaks Japanese fluently' into Japanese.",
+        "options": [
+          {"text": "彼女は日本語を話します (Kanojo wa nihongo o hanashimasu)", "correct": false},
+          {"text": "彼女は英語を話します (Kanojo wa eigo o hanashimasu)", "correct": false},
+          {"text": "彼女は流暢に日本語を話します (Kanojo wa ryuuchou ni nihongo o hanashimasu)", "correct": true},
+          {"text": "彼女は日本へ行きます (Kanojo wa nihon e ikimasu)", "correct": false}
+        ]
+      },
+      {
+        "question": "Explain the concept of 'kanji' in Japanese writing.",
+        "options": [
+          {"text": "Kanji is a simplified script used for basic communication.", "correct": false},
+          {"text": "Kanji is the script used for writing foreign words and names.", "correct": false},
+          {"text": "Kanji is a complex system of characters borrowed from Chinese, used alongside hiragana and katakana, with each character representing a word or concept.", "correct": true},
+          {"text": "Kanji is not relevant in modern Japanese.", "correct": false}
+        ]
+    }
+
+ ]
+  },
+  "italian": {
+    "easy": [
+      {
+        "question": "How do you say 'hello' in Italian?",
+        "options": [
+          {"text": "Buongiorno", "correct": false},
+          {"text": "Arrivederci", "correct": false},
+          {"text": "Ciao (Correct Answer)", "correct": true},
+          {"text": "Grazie", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'cat'?",
+        "options": [
+          {"text": "Cane", "correct": false},
+          {"text": "Pesce", "correct": false},
+          {"text": "Gatto (Correct Answer)", "correct": true},
+          {"text": "Casa", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'goodbye' into Italian.",
+        "options": [
+          {"text": "Per favore", "correct": false},
+          {"text": "Buonasera", "correct": false},
+          {"text": "Arrivederci (Correct Answer)", "correct": true},
+          {"text": "Mela", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'yes' in Italian?",
+        "options": [
+          {"text": "No", "correct": false},
+          {"text": "Si (Correct Answer)", "correct": true},
+          {"text": "Forse", "correct": false},
+          {"text": "Scusa", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'apple' into Italian.",
+        "options": [
+          {"text": "Pera", "correct": false},
+          {"text": "Mela (Correct Answer)", "correct": true},
+          {"text": "Banana", "correct": false},
+          {"text": "Acqua", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'friend'?",
+        "options": [
+          {"text": "Amico (Correct Answer)", "correct": true},
+          {"text": "Famiglia", "correct": false},
+          {"text": "Lavoro", "correct": false},
+          {"text": "Mangiare", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'thank you' in Italian?",
+        "options": [
+          {"text": "Per favore", "correct": false},
+          {"text": "Scusa", "correct": false},
+          {"text": "Grazie (Correct Answer)", "correct": true},
+          {"text": "Ciao", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'good' into Italian.",
+        "options": [
+          {"text": "Bene", "correct": false},
+          {"text": "Male", "correct": false},
+          {"text": "Buono (Correct Answer)", "correct": true},
+          {"text": "Piccolo", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'I love you' in Italian?",
+        "options": [
+          {"text": "Ti amo (Correct Answer)", "correct": true},
+          {"text": "Mi piaci", "correct": false},
+          {"text": "Ti capisco", "correct": false},
+          {"text": "Ti vedo", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'house'?",
+        "options": [
+          {"text": "Auto", "correct": false},
+          {"text": "Tavolo", "correct": false},
+          {"text": "Casa (Correct Answer)", "correct": true},
+          {"text": "Fiore", "correct": false}
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "question": "How do you conjugate the verb 'parlare' (to speak) in the present tense for 'I speak'?",
+        "options": [
+          {"text": "Io parla", "correct": false},
+          {"text": "Tu parli", "correct": false},
+          {"text": "Lui/lei parla", "correct": false},
+          {"text": "Io parlo (Correct Answer)", "correct": true}
+        ]
+      },
+      {
+        "question": "Translate the sentence 'I eat bread' into Italian.",
+        "options": [
+          {"text": "Io mangio pane (Correct Answer)", "correct": true},
+          {"text": "Io bevo acqua", "correct": false},
+          {"text": "Io vedo il libro", "correct": false},
+          {"text": "Io parlo italiano", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'school'?",
+        "options": [
+          {"text": "Libro", "correct": false},
+          {"text": "Scuola (Correct Answer)", "correct": true},
+          {"text": "Caffè", "correct": false},
+          {"text": "Fratello", "correct": false}
+        ]
+      },
+      {
+        "question": "How do you say 'to read' in Italian?",
+        "options": [
+          {"text": "Ascoltare", "correct": false},
+          {"text": "Leggere (Correct Answer)", "correct": true},
+          {"text": "Giocare", "correct": false},
+          {"text": "Ridere", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'yellow' into Italian.",
+        "options": [
+          {"text": "Giallo (Correct Answer)", "correct": true},
+          {"text": "Blu", "correct": false},
+          {"text": "Rosso", "correct": false},
+          {"text": "Verde", "correct": false}
+        ]
+      },
+      {
+        "question": "Provide the correct form of the adjective 'beautiful' in Italian for a masculine noun in the accusative case.",
+        "options": [
+          {"text": "Bello (Correct Answer)", "correct": true},
+          {"text": "Bella", "correct": false},
+          {"text": "Bei", "correct": false},
+          {"text": "Belle", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'to write'?",
+        "options": [
+          {"text": "Parlare", "correct": false},
+          {"text": "Leggere", "correct": false},
+          {"text": "Scrivere (Correct Answer)", "correct": true},
+          {"text": "Bere", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'to watch TV' into Italian.",
+        "options": [
+          {"text": "Leggere", "correct": false},
+          {"text": "Guardare la televisione (Correct Answer)", "correct": true},
+          {"text": "Ascoltare musica", "correct": false},
+          {"text": "Parlare", "correct": false}
+        ]
+      },
+      {
+        "question": "Explain the concept of 'verb conjugation' in Italian grammar.",
+        "options": [
+          {"text": "Verb conjugation is the process of combining verbs with nouns.", "correct": false},
+          {"text": "Verb conjugation involves changing the form of a verb to match its subject in tense, mood, aspect, and person. (Correct Answer)", "correct": true},
+          {"text": "Verb conjugation is not relevant in Italian.", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'to learn'?",
+        "options": [
+          {"text": "Lavorare", "correct": false},
+          {"text": "Giocare", "correct": false},
+          {"text": "Imparare (Correct Answer)", "correct": true},
+          {"text": "Vedere", "correct": false}
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Explain the difference between the passato prossimo and imperfetto verb tenses in Italian.",
+        "options": [
+          {"text": "The passato prossimo is used for ongoing actions, while imperfetto is used for completed actions.", "correct": false},
+          {"text": "The passato prossimo is used for habitual actions, while imperfetto is used for one-time actions.", "correct": false},
+          {"text": "The passato prossimo is used for completed actions, while imperfetto is used for ongoing or habitual actions. (Correct Answer)", "correct": true}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'to understand'?",
+        "options": [
+          {"text": "Vedere", "correct": false},
+          {"text": "Capire (Correct Answer)", "correct": true},
+          {"text": "Andare", "correct": false},
+          {"text": "Mangiare", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate the sentence 'We have been learning Italian for three months' into Italian.",
+        "options": [
+          {"text": "Noi impariamo italiano da tre mesi", "correct": false},
+          {"text": "Abbiamo imparato italiano da tre mesi", "correct": false},
+          {"text": "Noi abbiamo imparato italiano da tre mesi (Correct Answer)", "correct": true},
+          {"text": "Noi italiano impariamo da tre mesi", "correct": false}
+        ]
+      },
+      {
+        "question": "In Italian, what is the verb mood used to express a hypothetical situation or condition?",
+        "options": [
+          {"text": "Indicativo", "correct": false},
+          {"text": "Imperativo", "correct": false},
+          {"text": "Congiuntivo (Correct Answer)", "correct": true},
+          {"text": "Condizionale", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'book'?",
+        "options": [
+          {"text": "Tavolo", "correct": false},
+          {"text": "Libro (Correct Answer)", "correct": true},
+          {"text": "Casa", "correct": false},
+          {"text": "Fiore", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate 'to sing' into Italian.",
+        "options": [
+          {"text": "Parlare", "correct": false},
+          {"text": "Leggere", "correct": false},
+          {"text": "Cantare (Correct Answer)", "correct": true},
+          {"text": "Ballare", "correct": false}
+        ]
+      },
+      {
+        "question": "Provide the correct form of the adjective 'happy' in Italian for a feminine noun in the accusative case.",
+        "options": [
+          {"text": "Felice", "correct": false},
+          {"text": "Felici", "correct": false},
+          {"text": "Felico", "correct": false},
+          {"text": "Felice (Correct Answer)", "correct": true}
+        ]
+      },
+      {
+        "question": "What is the Italian word for 'to cook'?",
+        "options": [
+          {"text": "Mangiare", "correct": false},
+          {"text": "Giocare", "correct": false},
+          {"text": "Cucinare (Correct Answer)", "correct": true},
+          {"text": "Bere", "correct": false}
+        ]
+      },
+      {
+        "question": "Translate the sentence 'She speaks Italian fluently' into Italian.",
+        "options": [
+          {"text": "Lei non capisce l'italiano", "correct": false},
+          {"text": "Lei parla inglese", "correct": false},
+          {"text": "Lei parla italiano fluentemente (Correct Answer)", "correct": true},
+          {"text": "Lei italiano parla bene", "correct": false}
+        ]
+      },
+      {
+        "question": "Explain the concept of 'conjugation' in Italian grammar.",
+        "options": [
+          {"text": "Conjugation is the process of combining nouns and adjectives.", "correct": false},
+          {"text": "Conjugation is the same as verb tense.", "correct": false},
+          {"text": "Conjugation involves changing the form of a verb to express different grammatical aspects, including tense, mood, and person. (Correct Answer)", "correct": true}
+        ]
+      }
+    ]
+  },
+  "german" :{
+    "easy": [
+      {
+        "question": "How do you say 'hello' in German?",
+        "options": [
+          {
+            "text": "Guten Morgen",
+            "correct": false
+          },
+          {
+            "text": "Auf Wiedersehen",
+            "correct": false
+          },
+          {
+            "text": "Hallo",
+            "correct": true
+          },
+          {
+            "text": "Danke",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the German word for 'cat'?",
+        "options": [
+          {
+            "text": "Hund",
+            "correct": false
+          },
+          {
+            "text": "Fisch",
+            "correct": false
+          },
+          {
+            "text": "Katze",
+            "correct": true
+          },
+          {
+            "text": "Haus",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Translate 'goodbye' into German.",
+        "options": [
+          {
+            "text": "Bitte",
+            "correct": false
+          },
+          {
+            "text": "Guten Tag",
+            "correct": false
+          },
+          {
+            "text": "Auf Wiedersehen",
+            "correct": true
+          },
+          {
+            "text": "Apfel",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "How do you say 'yes' in German?",
+        "options": [
+          {
+            "text": "Nein",
+            "correct": false
+          },
+          {
+            "text": "Ja",
+            "correct": true
+          },
+          {
+            "text": "Vielleicht",
+            "correct": false
+          },
+          {
+            "text": "Entschuldigung",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Translate 'apple' into German.",
+        "options": [
+          {
+            "text": "Apfel",
+            "correct": true
+          },
+          {
+            "text": "Banane",
+            "correct": false
+          },
+          {
+            "text": "Kuchen",
+            "correct": false
+          },
+          {
+            "text": "Wasser",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the German word for 'friend'?",
+        "options": [
+          {
+            "text": "Freund",
+            "correct": true
+          },
+          {
+            "text": "Familie",
+            "correct": false
+          },
+          {
+            "text": "Arbeit",
+            "correct": false
+          },
+          {
+            "text": "Essen",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "How do you say 'thank you' in German?",
+        "options": [
+          {
+            "text": "Bitte",
+            "correct": false
+          },
+          {
+            "text": "Entschuldigung",
+            "correct": false
+          },
+          {
+            "text": "Danke",
+            "correct": true
+          },
+          {
+            "text": "Hallo",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Translate 'good' into German.",
+        "options": [
+          {
+            "text": "Gut",
+            "correct": true
+          },
+          {
+            "text": "Schlecht",
+            "correct": false
+          },
+          {
+            "text": "Groß",
+            "correct": false
+          },
+          {
+            "text": "Klein",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "How do you say 'I love you' in German?",
+        "options": [
+          {
+            "text": "Ich liebe dich",
+            "correct": true
+          },
+          {
+            "text": "Ich mag dich",
+            "correct": false
+          },
+          {
+            "text": "Ich verstehe dich",
+            "correct": false
+          },
+          {
+            "text": "Ich sehe dich",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the German word for 'house'?",
+        "options": [
+          {
+            "text": "Auto",
+            "correct": false
+          },
+          {
+            "text": "Tisch",
+            "correct": false
+          },
+          {
+            "text": "Haus",
+            "correct": true
+          },
+          {
+            "text": "Blume",
+            "correct": false
+          }
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "question": "How do you conjugate the verb 'sprechen' (to speak) in the present tense for 'I speak'?",
+        "options": [
+          {
+            "text": "Ich spreche",
+            "correct": true
+          },
+          {
+            "text": "Du sprichst",
+            "correct": false
+          },
+          {
+            "text": "Er spricht",
+            "correct": false
+          },
+          {
+            "text": "Wir sprechen",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Translate the sentence 'I eat bread' into German.",
+        "options": [
+          {
+            "text": "Ich esse Brot",
+            "correct": true
+          },
+          {
+            "text": "Ich trinke Wasser",
+            "correct": false
+          },
+          {
+            "text": "Ich sehe das Buch",
+            "correct": false
+          },
+          {
+            "text": "Ich spreche Deutsch",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "What is the German word for 'school'?",
+        "options": [
+          {
+            "text": "Buch",
+            "correct": false
+          },
+          {
+            "text": "Schule",
+            "correct": true
+          },
+          {
+            "text": "Kaffee",
+            "correct": false
+          },
+          {
+            "text": "Bruder",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "How do you say 'to read' in German?",
+        "options": [
+          {
+            "text": "Hören",
+            "correct": false
+          },
+          {
+            "text": "Lesen",
+            "correct": true
+          },
+          {
+            "text": "Spielen",
+            "correct": false
+          },
+          {
+            "text": "Lachen",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "question": "Translate 'yellow' into German.",
+        "options": [
+            {
+              "text": "Gelb",
+              "correct": true
+            },
+            {
+              "text": "Rot",
+              "correct": false
+            },
+            {
+              "text": "Grün",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Provide the correct form of the adjective 'beautiful' in German for a masculine noun in the accusative case.",
+          "options": [
+            {
+              "text": "Schöne",
+              "correct": false
+            },
+            {
+              "text": "Schöner",
+              "correct": false
+            },
+            {
+              "text": "Schönes",
+              "correct": true
+            },
+            {
+              "text": "Schön",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "What is the German word for 'to write'?",
+          "options": [
+            {
+              "text": "Sprechen",
+              "correct": false
+            },
+            {
+              "text": "Lesen",
+              "correct": false
+            },
+            {
+              "text": "Schreiben",
+              "correct": true
+            },
+            {
+              "text": "Trinken",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Translate 'to watch TV' into German.",
+          "options": [
+            {
+              "text": "Zu lesen",
+              "correct": false
+            },
+            {
+              "text": "Fernsehen",
+              "correct": true
+            },
+            {
+              "text": "Musik hören",
+              "correct": false
+            },
+            {
+              "text": "Zu sprechen",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Explain the concept of 'cases' in German grammar.",
+          "options": [
+            {
+              "text": "Cases are verb tenses in German.",
+              "correct": false
+            },
+            {
+              "text": "Cases are used for gender in German nouns.",
+              "correct": false
+            },
+            {
+              "text": "Cases are used to indicate the grammatical function of nouns and pronouns in a sentence.",
+              "correct": true
+            },
+            {
+              "text": "Cases are used for plural forms of German adjectives.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "What is the German word for 'to learn'?",
+          "options": [
+            {
+              "text": "Arbeiten",
+              "correct": false
+            },
+            {
+              "text": "Spielen",
+              "correct": false
+            },
+            {
+              "text": "Lernen",
+              "correct": true
+            }
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Explain the difference between the accusative and dative cases in German.",
+          "options": [
+            {
+              "text": "The accusative case is used for location, while the dative case is used for direct objects.",
+              "correct": false
+            },
+            {
+              "text": "The accusative case is used for the subject of a sentence, while the dative case is used for indirect objects.",
+              "correct": false
+            },
+            {
+              "text": "The accusative case is used for direct objects, while the dative case is used for indirect objects and location.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "question": "What is the German word for 'to understand'?",
+          "options": [
+            {
+              "text": "Sehen",
+              "correct": false
+            },
+            {
+              "text": "Verstehen",
+              "correct": true
+            },
+            {
+              "text": "Gehen",
+              "correct": false
+            },
+            {
+              "text": "Essen",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Translate the sentence 'We have been learning German for three months' into German.",
+          "options": [
+            {
+              "text": "Wir lernen Deutsch seit drei Monaten",
+              "correct": false
+            },
+            {
+              "text": "Wir haben Deutsch gelernt seit drei Monaten",
+              "correct": false
+            },
+            {
+              "text": "Wir haben seit drei Monaten Deutsch gelernt",
+              "correct": true
+            },
+            {
+              "text": "Wir Deutsch lernen seit drei Monaten",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In German, what is the verb aspect used to describe a continuous action?",
+          "options": [
+            {
+              "text": "Perfective aspect",
+              "correct": false
+            },
+            {
+                "text": "Imperfective aspect",
+                "correct": true
+              },
+              {
+                "text": "Progressive aspect",
+                "correct": false
+              },
+              {
+                "text": "Continuous aspect",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the German word for 'book'?",
+            "options": [
+              {
+                "text": "Tisch",
+                "correct": false
+              },
+              {
+                "text": "Buch",
+                "correct": true
+              },
+              {
+                "text": "Haus",
+                "correct": false
+              },
+              {
+                "text": "Blume",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate 'to sing' into German.",
+            "options": [
+              {
+                "text": "Sprechen",
+                "correct": false
+              },
+              {
+                "text": "Lesen",
+                "correct": false
+              },
+              {
+                "text": "Singen",
+                "correct": true
+              },
+              {
+                "text": "Tanzen",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Provide the correct form of the adjective 'happy' in German for a plural noun in the dative case.",
+            "options": [
+              {
+                "text": "Glücklicher",
+                "correct": false
+              },
+              {
+                "text": "Glückliche",
+                "correct": false
+              },
+              {
+                "text": "Glücklich",
+                "correct": true
+              },
+              {
+                "text": "Glückliches",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the German word for 'to cook'?",
+            "options": [
+              {
+                "text": "Essen",
+                "correct": false
+              },
+              {
+                "text": "Spielen",
+                "correct": false
+              },
+              {
+                "text": "Kochen",
+                "correct": true
+              },
+              {
+                "text": "Trinken",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate the sentence 'She speaks German fluently' into German.",
+            "options": [
+              {
+                "text": "Sie spricht Deutsch fließend",
+                "correct": true
+              },
+              {
+                "text": "Sie versteht kein Deutsch",
+                "correct": false
+              },
+              {
+                "text": "Sie spricht Englisch",
+                "correct": false
+              },
+              {
+                "text": "Sie Deutsch spricht gut",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Explain the concept of 'umlaut' in German pronunciation.",
+            "options": [
+              {
+                "text": "Umlaut refers to the German alphabet.",
+                "correct": false
+              },
+              {
+                "text": "Umlaut is a type of verb tense in German.",
+                "correct": false
+              },
+              {
+                "text": "Umlaut is a sound change that affects vowels, typically marked by two dots (e.g., ä, ö, ü).",
+                "correct": true
+              }
+            ]
+          },
+          {
+            "question": "What is the German word for 'to work'?",
+            "options": [
+              {
+                "text": "Gehen",
+                "correct": false
+              },
+              {
+                "text": "Arbeiten",
+                "correct": true
+              },
+              {
+                "text": "Lesen",
+                "correct": false
+              },
+              {
+                "text": "Tanzen",
+                "correct": false
+              }
+            ]
+          }
+        ]
+      },
+      "dutch":{
+        "easy": [
+          {
+            "question": "How do you say 'hello' in Dutch?",
+            "options": [
+              {
+                "text": "Goedemorgen",
+                "correct": false
+              },
+              {
+                "text": "Tot ziens",
+                "correct": false
+              },
+              {
+                "text": "Hallo",
+                "correct": true
+              },
+              {
+                "text": "Dank je",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'cat'?",
+            "options": [
+              {
+                "text": "Hond",
+                "correct": false
+              },
+              {
+                "text": "Vis",
+                "correct": false
+              },
+              {
+                "text": "Kat",
+                "correct": true
+              },
+              {
+                "text": "Huis",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate 'goodbye' into Dutch.",
+            "options": [
+              {
+                "text": "Alsjeblieft",
+                "correct": false
+              },
+              {
+                "text": "Goedemiddag",
+                "correct": false
+              },
+              {
+                "text": "Tot ziens",
+                "correct": true
+              },
+              {
+                "text": "Appel",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "How do you say 'yes' in Dutch?",
+            "options": [
+              {
+                "text": "Nee",
+                "correct": false
+              },
+              {
+                "text": "Ja",
+                "correct": true
+              },
+              {
+                "text": "Sorry",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate 'apple' into Dutch.",
+            "options": [
+              {
+                "text": "Peer",
+                "correct": false
+              },
+              {
+                "text": "Appel",
+                "correct": true
+              },
+              {
+                "text": "Banaan",
+                "correct": false
+              },
+              {
+                "text": "Water",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'friend'?",
+            "options": [
+              {
+                "text": "Vriend",
+                "correct": true
+              },
+              {
+                "text": "Familie",
+                "correct": false
+              },
+              {
+                "text": "Werk",
+                "correct": false
+              },
+              {
+                "text": "Eten",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "How do you say 'thank you' in Dutch?",
+            "options": [
+              {
+                "text": "Alsjeblieft",
+                "correct": false
+              },
+              {
+                "text": "Sorry",
+                "correct": false
+              },
+              {
+                "text": "Dank je",
+                "correct": true
+              },
+              {
+                "text": "Hallo",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate 'good' into Dutch.",
+            "options": [
+              {
+                "text": "Goed",
+                "correct": true
+              },
+              {
+                "text": "Slecht",
+                "correct": false
+              },
+              {
+                "text": "Groot",
+                "correct": false
+              },
+              {
+                "text": "Klein",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "How do you say 'I love you' in Dutch?",
+            "options": [
+              {
+                "text": "Ik hou van jou",
+                "correct": true
+              },
+              {
+                "text": "Ik vind je leuk",
+                "correct": false
+              },
+              {
+                "text": "Ik begrijp je",
+                "correct": false
+              },
+              {
+                "text": "Ik zie je",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'house'?",
+            "options": [
+              {
+                "text": "Auto",
+                "correct": false
+              },
+              {
+                "text": "Tafel",
+                "correct": false
+              },
+              {
+                "text": "Huis",
+                "correct": true
+              },
+              {
+                "text": "Bloem",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "medium": [
+          {
+            "question": "How do you conjugate the verb 'spreken' (to speak) in the present tense for 'I speak'?",
+            "options": [
+              {
+                "text": "Ik spreek",
+                "correct": true
+              },
+              {
+                "text": "Jij spreek",
+                "correct": false
+              },
+              {
+                "text": "Hij spreek",
+                "correct": false
+              },
+              {
+                "text": "Wij spreek",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate the sentence 'I eat bread' into Dutch.",
+            "options": [
+              {
+                "text": "Ik eet brood",
+                "correct": true
+              },
+              {
+                "text": "Ik drink water",
+                "correct": false
+              },
+              {
+                "text": "Ik zie het boek",
+                "correct": false
+              },
+              {
+                "text": "Ik spreek Nederlands",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'school'?",
+            "options": [
+              {
+                "text": "Boek",
+                "correct": false
+              },
+              {
+                "text": "School",
+                "correct": true
+              },
+              {
+                "text": "Koffie",
+                "correct": false
+              },
+              {
+                "text": "Broer",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "How do you say 'to read' in Dutch?",
+            "options": [
+              {
+                "text": "Luisteren",
+                "correct": false
+              },
+              {
+                "text": "Lezen",
+                "correct": true
+              },
+              {
+                "text": "Spelen",
+                "correct": false
+              },
+              {
+                "text": "Lachen",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate 'yellow' into Dutch.",
+            "options": [
+              {
+                "text": "Geel",
+                "correct": true
+              },
+              {
+                "text": "Blauw",
+                "correct": false
+              },
+              {
+                "text": "Rood",
+                "correct": false
+              },
+              {
+                "text": "Groen",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Provide the correct form of the adjective 'beautiful' in Dutch for a feminine noun in the accusative case.",
+            "options": [
+              {
+                "text": "Mooi",
+                "correct": false
+              },
+              {
+                "text": "Mooie",
+                "correct": true
+              },
+              {
+                "text": "Mooien",
+                "correct": false
+              },
+              {
+                "text": "Moois",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'to write'?",
+            "options": [
+              {
+                "text": "Spreken",
+                "correct": false
+              },
+              {
+                "text": "Lezen",
+                "correct": false
+              },
+              {
+                "text": "Schrijven",
+                "correct": true
+              },
+              {
+                "text": "Drinken",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate 'to watch TV' into Dutch.",
+            "options": [
+              {
+                "text": "Lezen",
+                "correct": false
+              },
+              {
+                "text": "Televisie kijken",
+                "correct": true
+              },
+              {
+                "text": "Muziek luisteren",
+                "correct": false
+              },
+              {
+                "text": "Spreken",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Explain the concept of 'cases' in Dutch grammar.",
+            "options": [
+              {
+                "text": "Cases are verb tenses in Dutch.",
+                "correct": false
+              },
+              {
+                "text": "Cases are used for gender in Dutch nouns.",
+                "correct": false
+              },
+              {
+                "text": "Cases are used to indicate the grammatical function of nouns and pronouns in a sentence.",
+                "correct": true
+              },
+              {
+                "text": "Cases are used for plural forms of Dutch adjectives.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'to learn'?",
+            "options": [
+              {
+                "text": "Werken",
+                "correct": false
+              },
+              {
+                "text": "Spelen",
+                "correct": false
+              },
+              {
+                "text": "Leren",
+                "correct": true
+              },
+              {
+                "text": "Zien",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "hard": [
+          {
+            "question": "Explain the difference between the dative and accusative cases in Dutch.",
+            "options": [
+              {
+                "text": "The dative case is used for location, while the accusative case is used for direct objects.",
+                "correct": false
+              },
+              {
+                "text": "The dative case is used for the subject of a sentence, while the accusative case is used for indirect objects.",
+                "correct": false
+              },
+              {
+                "text": "The dative case is used for indirect objects, while the accusative case is used for direct objects.",
+                "correct": true
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'to understand'?",
+            "options": [
+              {
+                "text": "Zien",
+                "correct": false
+              },
+              {
+                "text": "Begrijpen",
+                "correct": true
+              },
+              {
+                "text": "Gaan",
+                "correct": false
+              },
+              {
+                "text": "Eten",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate the sentence 'We have been learning Dutch for three months' into Dutch.",
+            "options": [
+              {
+                "text": "Wij leren Nederlands voor drie maanden",
+                "correct": false
+              },
+              {
+                "text": "Wij hebben Nederlands geleerd voor drie maanden",
+                "correct": false
+              },
+              {
+                "text": "Wij hebben al drie maanden Nederlands geleerd",
+                "correct": true
+              },
+              {
+                "text": "Wij leren al drie maanden Nederlands",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "In Dutch, what is the verb aspect used to describe a continuous action?",
+            "options": [
+              {
+                "text": "Perfective aspect",
+                "correct": false
+              },
+              {
+                "text": "Imperfective aspect",
+                "correct": true
+              },
+              {
+                "text": "Progressive aspect",
+                "correct": false
+              },
+              {
+                "text": "Continuous aspect",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'book'?",
+            "options": [
+              {
+                "text": "Tafel",
+                "correct": false
+              },
+              {
+                "text": "Boek",
+                "correct": true
+              },
+              {
+                "text": "Huis",
+                "correct": false
+              },
+              {
+                "text": "Bloem",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate 'to sing' into Dutch.",
+            "options": [
+              {
+                "text": "Spreken",
+                "correct": false
+              },
+              {
+                "text": "Lezen",
+                "correct": false
+              },
+              {
+                "text": "Zingen",
+                "correct": true
+              },
+              {
+                "text": "Dansen",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Provide the correct form of the adjective 'happy' in Dutch for a plural noun in the dative case.",
+            "options": [
+              {
+                "text": "Blij",
+                "correct": false
+              },
+              {
+                "text": "Blije",
+                "correct": true
+              },
+              {
+                "text": "Blijen",
+                "correct": false
+              },
+              {
+                "text": "Blijs",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "What is the Dutch word for 'to cook'?",
+            "options": [
+              {
+                "text": "Eten",
+                "correct": false
+              },
+              {
+                "text": "Spelen",
+                "correct": false
+              },
+              {
+                "text": "Koken",
+                "correct": true
+              },
+              {
+                "text": "Drinken",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "question": "Translate the sentence 'She speaks Dutch fluently' into Dutch.",
+            "options": [
+              {
+                "text": "Zij spreekt Nederlands vloeiend",
+                "correct": true
+              },
+              {
+                "text": "Zij begrijpt geen Nederlands",
+                "correct": false
+              },
+              {
+                "text": "Zij spreekt Engels",
+                "correct": false
+              },
+              {
+                "text": "Zij spreekt goed Nederlands",
+                "correct": false
+              }
+            ]
+          },
+          {
+                  "question": "Explain the concept of 'diphthongs' in Dutch pronunciation.",
+          "options": [
+            {
+              "text": "Diphthongs are consonant clusters in Dutch words.",
+              "correct": false
+            },
+            {
+              "text": "Diphthongs are short vowel sounds in Dutch.",
+              "correct": false
+            },
+            {
+              "text": "Diphthongs are combinations of two vowel sounds in a single syllable in Dutch.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "question": "What is the Dutch word for 'to work'?",
+          "options": [
+            {
+              "text": "Werken",
+              "correct": true
+            },
+            {
+              "text": "Spelen",
+              "correct": false
+            },
+            {
+              "text": "Leren",
+              "correct": false
+            },
+            {
+              "text": "Zien",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    }
+}

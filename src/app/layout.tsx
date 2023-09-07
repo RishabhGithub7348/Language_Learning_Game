@@ -7,7 +7,7 @@ import ToasterProvider from './providers/ToasterProvider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Lingui',
+  title: 'Lingua',
   description: 'A Language Learning Platform',
 }
 
